@@ -27,13 +27,14 @@ The **Theater Reservations System** is a console-based Java application that all
 Below are some example screenshots of the program in action:
 
 ### ✅ Successful Reservation
-![Successful Reservation](path/to/success_screenshot.png)
+![Screenshot 2025-02-08 at 5 02 11 PM](https://github.com/user-attachments/assets/e48370ac-8529-4432-9547-1a958a5274c7)
+
 
 ### ⚠️ Name Validation Prompt
-![Name Validation](path/to/name_validation_screenshot.png)
+![Screenshot 2025-02-08 at 5 03 43 PM](https://github.com/user-attachments/assets/3d4a3523-cbaf-4db2-977b-743136509273)
 
 ### ❌ Invalid Date Entry
-![Invalid Date](path/to/invalid_date_screenshot.png)
+![Screenshot 2025-02-08 at 5 04 56 PM](https://github.com/user-attachments/assets/c01a21ae-a2d8-4061-b8f4-9739addf2107)
 
 *(Replace the paths with actual screenshot locations when available.)*
 
