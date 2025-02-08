@@ -27,16 +27,14 @@ The **Theater Reservations System** is a console-based Java application that all
 Below are some example screenshots of the program in action:
 
 ### ✅ Successful Reservation
-![Screenshot 2025-02-08 at 5 02 11 PM](https://github.com/user-attachments/assets/e48370ac-8529-4432-9547-1a958a5274c7)
-
+<img src="https://github.com/user-attachments/assets/e48370ac-8529-4432-9547-1a958a5274c7" width="650" alt="Screenshot 2025-02-08 at 5 02 11 PM">
 
 ### ⚠️ Name Validation Prompt
-![Screenshot 2025-02-08 at 5 03 43 PM](https://github.com/user-attachments/assets/3d4a3523-cbaf-4db2-977b-743136509273)
+<img src="https://github.com/user-attachments/assets/3d4a3523-cbaf-4db2-977b-743136509273" width="650" alt="Screenshot 2025-02-08 at 5 03 43 PM">
 
 ### ❌ Invalid Date Entry
-![Screenshot 2025-02-08 at 5 04 56 PM](https://github.com/user-attachments/assets/c01a21ae-a2d8-4061-b8f4-9739addf2107)
+<img src="https://github.com/user-attachments/assets/c01a21ae-a2d8-4061-b8f4-9739addf2107" width="650" alt="Screenshot 2025-02-08 at 5 04 56 PM">
 
-*(Replace the paths with actual screenshot locations when available.)*
 
 ---
 
@@ -55,7 +53,7 @@ Below are some example screenshots of the program in action:
 ---
 
 ## 🏆 Credits
-Developed by **[Your Name]** 🚀  
+Developed by **Bolutife Alili** 🚀  
 Powered by **Java** ☕  
 
 ---
